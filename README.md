@@ -133,7 +133,7 @@ Enter individual student profiles to forecast total academic outcomes with compa
 
 ### 3. Bulk Batch CSV Ingress & Prediction
 Upload a CSV dataset of students, run batch predictions, and download the results:
-![Batch CSV Prediction](Batch_CSV_Predction_SS.png)
+![Batch CSV Prediction](Rag_SS.png)
 
 ### 4. Model Training Pipeline
 Execute the full data transformation and Decision Tree regressor retraining modules:
