@@ -1,1 +1,18 @@
+# Virtual Environment
+myenv/
 
+# Python compiled bytecode
+__pycache__/
+*.pyc
+
+# Local log files
+*.log
+
+# Compilation metadata
+*.egg-info/
+build/
+dist/
+
+# Large artifacts (keep folders but ignore model pkls)
+artifacts/*.pkl
+artifacts/*.csv
