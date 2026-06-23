@@ -118,3 +118,23 @@ graph TD
 - **Multi-Model Comparison**: Add model comparison indicators (R2 score, RMSE) for multiple algorithms (XGBoost, Random Forest, Linear Regression).
 - **Database Integration**: Connect the ingestion pipeline directly to a SQL database instead of static CSV files.
 - **Model Monitoring**: Log real-time model prediction drift and trigger automated alerts.
+
+## 📷 Application Preview
+
+Below are the screenshots showcasing the features of the Student Performance Analyzer:
+
+### 1. Interactive EDA Dashboard
+Detailed insights, summary KPI metrics, score distributions, and academic impact charts:
+![EDA Dashboard](EDA_SS.png)
+
+### 2. Single Student Score Prediction
+Enter individual student profiles to forecast total academic outcomes with comparative benchmarks:
+![Single Student Prediction](Make_Predction_SS.png)
+
+### 3. Bulk Batch CSV Ingress & Prediction
+Upload a CSV dataset of students, run batch predictions, and download the results:
+![Batch CSV Prediction](Batch_CSV_Predction_SS.png)
+
+### 4. Model Training Pipeline
+Execute the full data transformation and Decision Tree regressor retraining modules:
+![Model Retraining Pipeline](Train_Model_SS.png)
